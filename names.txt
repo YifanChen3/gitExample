@@ -1,2 +1,3 @@
-boss,9083969817,Chen,Yifan
+role,NetID,LastName,FirstName
+boss,chen2336,Chen,Yifan
 employee,jling9,Ling,Stephen
